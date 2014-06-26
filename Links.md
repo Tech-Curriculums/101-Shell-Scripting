@@ -8,4 +8,6 @@
   * ninja scripting -- leave no trace
   * can do a quick scenario where students try to plant a bug on my computer
    * those who leave a trace will have much shame
+* http://sshkeychain.sourceforge.net/mirrors/SSH-with-Keys-HOWTO/SSH-with-Keys-HOWTO.html#toc6
+  * intro to toward advanced ssh 
  
