@@ -10,4 +10,6 @@
    * those who leave a trace will have much shame
 * http://sshkeychain.sourceforge.net/mirrors/SSH-with-Keys-HOWTO/SSH-with-Keys-HOWTO.html#toc6
   * intro to toward advanced ssh 
+  * how to create a public private keypair
+  * how to use ssh-agent and work with the .ssh folder
  
